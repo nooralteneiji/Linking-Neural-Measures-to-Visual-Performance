@@ -1,3 +1,6 @@
+
+![Poster](Poster_Alteneiji_na2279.png)
+
 # Linking Neural Measures to Visual Performance
  
 This repository contains the scripts used for data analysis in Noor Alteneiji's capstone project. 
